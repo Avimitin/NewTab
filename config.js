@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'code-2',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'docs.rs',
+					link: 'https://docs.rs',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'crates.io',
+					link: 'https://crates.io',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'lib.rs',
+					link: 'https://lib.rs',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'std',
+					link: 'https://doc.rust-lang.org/std/index.html',
 				},
 			],
 		},
